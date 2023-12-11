@@ -4,35 +4,47 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
+*   [JavaScript](#javascript)
 *   [C++](#c)
+*   [C](#c-1)
 *   [Python](#python)
+*   [HTML](#html)
 *   [Go](#go)
 *   [Java](#java)
 *   [YAML](#yaml)
-*   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [PowerShell](#powershell)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c-1)
+*   [C#](#c-2)
 *   [Batchfile](#batchfile)
 *   [Dockerfile](#dockerfile)
 *   [CSS](#css)
 *   [Jupyter Notebook](#jupyter-notebook)
 
-## HTML
+## JavaScript
 
-*   [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.
+*   [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器ssh管理面板(webSSH\&webSFTP)
+*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 
 ## C++
 
+*   [SpriteOvO/AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
 *   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 *   [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
 
+## C
+
+*   [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
+
 ## Python
 
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
 *   [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
 *   [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 *   [ausaki/python-validator](https://github.com/ausaki/python-validator) - a data validator like Django ORM
@@ -46,6 +58,10 @@
 *   [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 *   [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
+
+## HTML
+
+*   [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.
 
 ## Go
 
@@ -98,13 +114,6 @@
 ## YAML
 
 *   [ansistrano/deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
-
-## JavaScript
-
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器ssh管理面板(webSSH\&webSFTP)
-*   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-*   [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 
 ## Vue
 
