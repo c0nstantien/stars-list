@@ -4,24 +4,45 @@
 
 ## Table of Contents
 
+*   [C#](#c)
+*   [Vue](#vue)
+*   [TypeScript](#typescript)
+*   [Batchfile](#batchfile)
 *   [JavaScript](#javascript)
-*   [C++](#c)
-*   [C](#c-1)
+*   [C++](#c-1)
+*   [C](#c-2)
 *   [Python](#python)
 *   [HTML](#html)
 *   [Go](#go)
 *   [Java](#java)
 *   [YAML](#yaml)
-*   [Vue](#vue)
-*   [TypeScript](#typescript)
 *   [PowerShell](#powershell)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c-2)
-*   [Batchfile](#batchfile)
 *   [Dockerfile](#dockerfile)
 *   [CSS](#css)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## C\#
+
+*   [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Expose hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb
+*   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+
+## Vue
+
+*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - 一个NAS导航面板、Homepage、浏览器首页。
+*   [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
+
+## TypeScript
+
+*   [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+
+## Batchfile
+
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ## JavaScript
 
@@ -115,15 +136,6 @@
 
 *   [ansistrano/deploy](https://github.com/ansistrano/deploy) - Ansible role to deploy scripting applications like PHP, Python, Ruby, etc. in a capistrano style
 
-## Vue
-
-*   [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
-
-## TypeScript
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
 ## PowerShell
 
 *   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -151,14 +163,6 @@
 *   [facert/python-data-structure-cn](https://github.com/facert/python-data-structure-cn) - problem-solving-with-algorithms-and-data-structure-using-python 中文版
 *   [yikeke/tao-of-programming](https://github.com/yikeke/tao-of-programming) - 《编程之道》 (Tao of Programming, 1987) 最新中英双语版
 *   [XD-DENG/SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - Practice with "Real" SQL Problems
-
-## C\#
-
-*   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-
-## Batchfile
-
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ## Dockerfile
 
